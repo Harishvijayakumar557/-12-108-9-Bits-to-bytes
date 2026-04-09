@@ -15,6 +15,9 @@ Control LED brightness using a potentiometer and Arduino PWM.
 - Resistor
 - Potentiometer
 
+💻 Code
+[View Code](./pwm_led.ino)
+
 ⚡ Working
 
 Potentiometer value is read and converted into a PWM signal to control LED brightness.
