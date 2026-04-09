@@ -22,3 +22,15 @@ Potentiometer value is read and converted into a PWM signal to control LED brigh
 ✅ Status
 
 Completed 🚀
+
+🎥 Demo
+
+[watch video](https://youtube.com/shorts/2aBcVt8xTok?si=LpxSTbpmC67SOOTt)
+
+📷 Circuit
+
+[circuit]()
+
+🔧 Real Setup
+
+[Setup]()
