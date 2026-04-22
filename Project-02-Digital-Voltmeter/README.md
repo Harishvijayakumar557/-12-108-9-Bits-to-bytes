@@ -29,7 +29,7 @@ This project demonstrates how analog signals can be converted into digital value
 - Connect middle pin (wiper) → **A0 (Analog Pin)**
 
 ## 💻 Arduino Code
-[view code]()
+[view code](Project-02-Digital-Voltmeter/digital-voltmeter.ino)
 
 ##⚙️ Working Principle
 The potentiometer acts as a voltage divider, producing a variable voltage between 0V and 5V.
