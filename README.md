@@ -1,39 +1,21 @@
-🔥 PWM LED Brightness Control
+# 🔥 12 Projects in 108 Days – Bits to Bytes
 
-Control LED brightness using a potentiometer and Arduino PWM.
+Building practical electronics and embedded systems projects using Arduino and core engineering concepts.
 
-🧠 Concepts
+# 📚 Projects
 
-- PWM
-- Analog Input
-- Embedded Systems
-  
-🧰 Components
+## ⚡ Project 01 – PWM LED Brightness Controller
+Control LED brightness using PWM and a potentiometer.
 
-- Arduino uno
-- LED
-- Resistor
-- Potentiometer
+🔗 [Open Project](Project-01-PWM-LED-Controller)
 
-💻 Code
-[View Code](./Project-01-PWM-LED-Controller/pwm_led.ino)
+## ⚡ Project 02 – Digital Voltmeter
+Measure real-time voltage using Arduino's built-in ADC.
 
-⚡ Working
+🔗 [Open Project](Project-02-Digital-Voltmeter)
 
-Potentiometer value is read and converted into a PWM signal to control LED brightness.
+# 🚀 Goal
+Learning embedded systems, electronics, communication, and IoT through hands-on projects.
 
-✅ Status
-
-Completed 🚀
-
-🎥 Demo
-
-[watch video](https://youtube.com/shorts/2aBcVt8xTok?si=LpxSTbpmC67SOOTt)
-
-📷 Circuit
-
-![circuit](https://raw.githubusercontent.com/Harishvijayakumar557/-12-108-9-Bits-to-bytes/main/Project-01-PWM-LED-Controller/378ea258-aa95-42b2-addf-c2c7ab0ff926.jpg)
-
-🔧 Real Setup
-
-![Setup](https://raw.githubusercontent.com/Harishvijayakumar557/-12-108-9-Bits-to-bytes/main/Project-01-PWM-LED-Controller/9cf5d46e-1a5e-4f89-a2bf-8ed79a77b4bb.jpg)
+# 👨‍💻 Author
+**Harish**
