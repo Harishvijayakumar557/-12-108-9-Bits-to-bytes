@@ -47,7 +47,7 @@ Voltage: 4.72 V (high)
 
 
 🔧 Real Hardwaresetuop
-![setup](Project-02-Digital-Voltmeter/image-digitalvolt.jpeg)
+![setup](image-digitalvolt.jpeg)
 🎥 Demo Video
 ![video](https://youtube.com/shorts/ASisU032lhg?si=mwJoCc1C1EszUUYF)
 
