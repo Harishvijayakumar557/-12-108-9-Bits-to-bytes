@@ -32,7 +32,7 @@ This project demonstrates how analog signals can be converted into digital value
 
 ## 💻 Arduino Code
 
-```cpp
+
 int analogPin = A0;
 float voltage = 0;
 
@@ -57,21 +57,23 @@ Arduino reads this analog voltage using its 10-bit ADC, which converts it into a
 The voltage is calculated using:
 Voltage = ADC Value × (5.0 / 1023.0)
 The result is continuously displayed on the Serial Monitor every 300 milliseconds.
+
 📊 Output
 Example Serial Monitor Output:
 
-Voltage: 0.85 V
-Voltage: 2.31 V
-Voltage: 4.72 V
-📷 Circuit Diagram
-�
-🔧 Real Hardware Setup
-�
+Voltage: 0.85 V (low)
+Voltage: 2.31 V (mid)
+Voltage: 4.72 V (high)
+
+
+🔧 Real Hardwaresetuop
+![setup]()
 🎥 Demo Video
-▶️ Watch Demo
+![video]()
+
 🎯 Learning Outcome
 Understood how ADC works in embedded systems
 Learned real-time sensor data processing
-Gained hands-on experience with Arduino hardware
+
 ⭐ Status
 ✅ Completed
