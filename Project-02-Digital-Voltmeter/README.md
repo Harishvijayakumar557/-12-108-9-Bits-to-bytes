@@ -28,10 +28,8 @@ This project demonstrates how analog signals can be converted into digital value
 - Connect other end → **GND**
 - Connect middle pin (wiper) → **A0 (Analog Pin)**
 
----
-
 ## 💻 Arduino Code
-[view code](Project-04-Digital-Voltmeter/digital-voltmeter.ino)
+[view code]()
 
 ##⚙️ Working Principle
 The potentiometer acts as a voltage divider, producing a variable voltage between 0V and 5V.
@@ -49,9 +47,9 @@ Voltage: 4.72 V (high)
 
 
 🔧 Real Hardwaresetuop
-![setup](Project-04-Digital-Voltmeter/image-digitalvolt.jpeg)
+![setup]()
 🎥 Demo Video
-![video]()
+![video](https://youtube.com/shorts/ASisU032lhg?si=mwJoCc1C1EszUUYF)
 
 🎯 Learning Outcome
 Understood how ADC works in embedded systems
