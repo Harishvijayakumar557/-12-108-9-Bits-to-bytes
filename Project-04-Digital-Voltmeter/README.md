@@ -31,26 +31,7 @@ This project demonstrates how analog signals can be converted into digital value
 ---
 
 ## 💻 Arduino Code
-[view code]()
-
-
-int analogPin = A0;
-float voltage = 0;
-
-void setup() {
-  Serial.begin(9600);
-}
-
-void loop() {
-  int value = analogRead(analogPin);
-  voltage = value * (5.0 / 1023.0);
-
-  Serial.print("Voltage: ");
-  Serial.print(voltage);
-  Serial.println(" V");
-
-  delay(300);
-}
+[view code](Project-04-Digital-Voltmeter/digital-voltmeter.ino)
 
 ##⚙️ Working Principle
 The potentiometer acts as a voltage divider, producing a variable voltage between 0V and 5V.
@@ -68,7 +49,7 @@ Voltage: 4.72 V (high)
 
 
 🔧 Real Hardwaresetuop
-![setup](https://github.com/Harishvijayakumar557/-12-108-9-Bits-to-bytes/blob/b7e57046f77fa9179aa7c79b3a74ef3c23651375/Project-04-Digital-Voltmeter/image-digitalvolt.jpeg)
+![setup]()
 🎥 Demo Video
 ![video]()
 
