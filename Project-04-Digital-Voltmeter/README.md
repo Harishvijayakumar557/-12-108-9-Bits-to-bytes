@@ -31,6 +31,7 @@ This project demonstrates how analog signals can be converted into digital value
 ---
 
 ## 💻 Arduino Code
+[view code]()
 
 
 int analogPin = A0;
