@@ -49,7 +49,7 @@ Voltage: 4.72 V (high)
 
 
 🔧 Real Hardwaresetuop
-![setup]()
+![setup](Project-04-Digital-Voltmeter/image-digitalvolt.jpeg)
 🎥 Demo Video
 ![video]()
 
